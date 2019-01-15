@@ -90,11 +90,11 @@ program that uses the techniques discussed above to reconstruct a couple of imag
 that have had text placed over them (effectively obscuring a large portion of the images).
 Specifically, I considered the reconstruction of the classic Barbara image:
 
-![Reconstructed Barbara](/assets/barbara_reconstructed.png)
+![Reconstructed Barbara](/assets/barbara_reconstructed.PNG)
 
 I also additionally reconstructed an image of cameraman as you can see below:
 
-![Reconstructed Cameraman](/assets/cameraman_result.png)
+![Reconstructed Cameraman](/assets/cameraman_result.PNG)
 
 As you can see this method provides a decent way to reconstruct images that are
 largely obscured. Both of these reconstructions were done by setting up the optimization problem as
