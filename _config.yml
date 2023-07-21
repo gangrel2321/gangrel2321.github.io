@@ -17,7 +17,7 @@ baseurl: ""
 title: Gestalt
 
 # Short description of your site
-description: Solving cool and interesting problems with mathematics. 
+description: Solving interesting problems with mathematics. 
 
 # --- Navigation bar options --- #
 
@@ -93,8 +93,8 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  google: false
-  linkedin: true
+  google: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -163,6 +163,7 @@ paginate: 5
 
 kramdown:
   input: GFM
+  syntax_highlighter: rogue
 
 # Default YAML values (more information on Jekyll's site)
 defaults:

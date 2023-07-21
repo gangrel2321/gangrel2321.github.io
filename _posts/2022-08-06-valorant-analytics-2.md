@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A data science approach to choosing a Valorant team comp (Part 1)
-subtitle: Cleaning and clustering our data for easy analysis and visualization
+title: A data science approach to choosing a Valorant team comp (Part 2)
+subtitle: Applying statistics to determine the best agents in Valorant 
 ---
 
 
