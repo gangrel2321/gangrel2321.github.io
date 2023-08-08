@@ -4,6 +4,7 @@ title:  "Low-rank Matrices and Inpainting"
 subtitle: "Reconstruct images using signal processing and machine learning"
 date:   2018-12-31 01:11:52 -0500
 categories: jekyll update
+tags: research
 ---
 {% include mathMode.html %}
 Before we begin with the mathematics we should start first by defining the

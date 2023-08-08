@@ -13,6 +13,10 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+
   {% include gtag.html %}
   {% include gtm_head.html %}
   {% include google_analytics.html %}

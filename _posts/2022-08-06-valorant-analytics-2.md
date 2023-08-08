@@ -2,6 +2,7 @@
 layout: post
 title: A data science approach to choosing a Valorant team comp (Part 2)
 subtitle: Applying statistics to determine the best agents in Valorant 
+tags: projects
 ---
 
 
